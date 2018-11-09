@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CreateManyTxTests.testFullFlow'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CreateManyTxTests.testFullFlow'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FullFlowTests.testFullFlow'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
