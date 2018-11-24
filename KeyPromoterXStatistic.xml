@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ctct'</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'paypro-gwt'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CreateManyTxTests.testFullFlow'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FullFlowTests.testFullFlow'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -294,7 +294,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
