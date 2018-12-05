@@ -137,6 +137,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Execute">
         <Item>
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
