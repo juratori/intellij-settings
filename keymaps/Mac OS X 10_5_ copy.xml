@@ -1,0 +1,10 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+</keymap>
