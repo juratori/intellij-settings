@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'TOMCAT+GWT'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
