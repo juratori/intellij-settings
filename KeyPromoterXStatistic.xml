@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Task...">
+        <Item>
+          <IdeaActionID>tasks.goto</IdeaActionID>
+          <ShortCut>'⌥⇧N'</ShortCut>
+          <Description>Open Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -487,6 +495,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
           <Count>62</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Switch Task...">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'⌥⇧T'</ShortCut>
+          <Description>Switch Task...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
