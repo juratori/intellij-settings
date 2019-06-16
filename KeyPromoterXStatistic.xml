@@ -633,6 +633,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Unindent Line or Selection">
+        <Item>
+          <IdeaActionID>EditorUnindentSelection</IdeaActionID>
+          <ShortCut>'⇧⇥'</ShortCut>
+          <Description>Unindent Line or Selection</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update Project">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
