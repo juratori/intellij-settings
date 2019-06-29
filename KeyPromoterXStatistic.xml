@@ -97,6 +97,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ApiTests'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ApiTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CreateDifferentTypeOfTxForASingleAccount'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -142,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'TOMCAT'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TOMCAT+GWT'">
@@ -182,7 +190,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'gwt'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'paypro-gwt'">
@@ -598,7 +606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>70</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Switch Task...">
@@ -662,7 +670,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
