@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'compliancelayer'</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ctct'">
@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>14</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -662,7 +662,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>93</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
