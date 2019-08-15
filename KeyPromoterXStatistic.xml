@@ -193,6 +193,22 @@
           <Count>70</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'compliancelayer.com - pre'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'compliancelayer.com - pre'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'compliancelayer.com - pro'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'compliancelayer.com - pro'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'compliancelayer.com'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -625,12 +641,28 @@
           <Count>65</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'compliancelayer.com - pre'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'compliancelayer.com - pre'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'compliancelayer.com - pro'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'compliancelayer.com - pro'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'compliancelayer.com'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'compliancelayer.com'</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'paypro-gwt'">
