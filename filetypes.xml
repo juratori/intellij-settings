@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

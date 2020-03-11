@@ -51,7 +51,7 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.2.2" />
+      <artifact name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
@@ -85,6 +85,32 @@
     </driver>
     <driver id="clickhouse">
       <artifact name="ClickHouse" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mysql.8" name="">
+      <artifact name="MySQL Connector/J 8" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="cassandra" name="">
+      <artifact name="Cassandra" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="vertica" name="">
+      <artifact name="Vertica" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hive" name="">
+      <artifact name="Hive" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="greenplum" name="">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="snowflake" name="">
+      <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
   </component>
