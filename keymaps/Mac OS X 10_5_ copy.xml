@@ -7,4 +7,5 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
